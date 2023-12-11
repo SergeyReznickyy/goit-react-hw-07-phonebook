@@ -1,0 +1,24 @@
+.list_item {
+  color: wheat;
+  display: flex;
+  justify-content: space-between;
+}
+.list_text {
+  margin: 0;
+}
+.buttonDelete {
+  background-color: #a5e6f5;
+  border: 2px solid #a5e6f5;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: color 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+    background-color 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+    border 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  width: 110px;
+}
+.buttonDelete:hover {
+  color: wheat;
+  border: 2px solid rgb(202, 95, 163);
+  background-color: rgb(202, 95, 163);
+}
