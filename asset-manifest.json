@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-07-phonebookk/static/css/main.68b8152a.css",
-    "main.js": "/goit-react-hw-07-phonebookk/static/js/main.9e359d48.js",
-    "static/media/abstract-uv-ultraviolet-light-composition-min.jpg": "/goit-react-hw-07-phonebookk/static/media/abstract-uv-ultraviolet-light-composition-min.247d68601ab8a5305190.jpg",
-    "index.html": "/goit-react-hw-07-phonebookk/index.html",
-    "main.68b8152a.css.map": "/goit-react-hw-07-phonebookk/static/css/main.68b8152a.css.map",
-    "main.9e359d48.js.map": "/goit-react-hw-07-phonebookk/static/js/main.9e359d48.js.map"
+    "main.css": "/goit-react-hw-07-phonebook/static/css/main.50cb08ac.css",
+    "main.js": "/goit-react-hw-07-phonebook/static/js/main.9e359d48.js",
+    "static/media/abstract-uv-ultraviolet-light-composition-min.jpg": "/goit-react-hw-07-phonebook/static/media/abstract-uv-ultraviolet-light-composition-min.247d68601ab8a5305190.jpg",
+    "index.html": "/goit-react-hw-07-phonebook/index.html",
+    "main.50cb08ac.css.map": "/goit-react-hw-07-phonebook/static/css/main.50cb08ac.css.map",
+    "main.9e359d48.js.map": "/goit-react-hw-07-phonebook/static/js/main.9e359d48.js.map"
   },
   "entrypoints": [
-    "static/css/main.68b8152a.css",
+    "static/css/main.50cb08ac.css",
     "static/js/main.9e359d48.js"
   ]
 }
